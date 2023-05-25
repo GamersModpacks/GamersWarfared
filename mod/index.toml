@@ -1,0 +1,254 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/create-client.toml"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+
+[[files]]
+file = "config/fancymenu/custom_locals/mod/en_us.local"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+
+[[files]]
+file = "config/fancymenu/resources/logo.png"
+
+[[files]]
+file = "config/mffs-common.toml"
+
+[[files]]
+file = "config/openloader/resources/GamersWarfared Resources/assets/mffs/lang/ru_ru.json"
+
+[[files]]
+file = "config/openloader/resources/GamersWarfared Resources/pack.mcmeta"
+
+[[files]]
+file = "config/quark-common.toml"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+
+[[files]]
+file = "mods/ae2-things-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-crystal-clear.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cyclic.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/first-aid.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mffs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ninezeros-gun-expansion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
