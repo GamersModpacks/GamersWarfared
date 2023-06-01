@@ -38,7 +38,7 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "e9d767102b8204788c8572c16755aebaf78d8f4dad6fff4c3bb47aacc1177813"
+hash = "74c386c4617d523dab0f51f2e3a69fe931e0c60526d905d1a5fea8078ce3c22a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -66,7 +66,7 @@ hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
 
 [[files]]
 file = "config/fancymenu/resources/background.png"
-hash = "8eaeeb29091a34877ad60eb26d5913214431c833c21c20dc4eb0f1233a0b67d0"
+hash = "4fb555e95755a5b50759116cbd18deac9d44129edf27544e150b3eb62cbd0513"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
@@ -95,18 +95,6 @@ hash = "ef422721f5087010f9ea9fdb3bfb03f77b1a3bcdc567a83333da09cb4882c5c4"
 [[files]]
 file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
-
-[[files]]
-file = "config/openloader/resources/ForgePackBase Resources/assets/simplelogin/lang/en_us.json"
-hash = "9fba9f1cf28262db1b5e0f6df730dab5865bcc2dd300e58f27c0c0f1834369a2"
-
-[[files]]
-file = "config/openloader/resources/ForgePackBase Resources/assets/simplelogin/lang/ru_ru.json"
-hash = "ba5a0f2e8cae483f3397b6616238add8284a05b2c95957784caf1b8e710951ed"
-
-[[files]]
-file = "config/openloader/resources/ForgePackBase Resources/assets/simplelogin/lang/uk_ua.json"
-hash = "ba42d5472f1b66be05af3e6fa34b9840d2e6efa7a201e656bc12e185405da31b"
 
 [[files]]
 file = "config/openloader/resources/ForgePackBase Resources/assets/tipsmod/lang/ru_ru.json"
@@ -206,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
@@ -521,17 +509,12 @@ metafile = true
 
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
-hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
+hash = "89339174b49429b991f3da08eb26ed26511ce1486f8b856f1704e0bdcf12ec13"
 metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "4b3ff474197a108f8f8fffbfe0e08603fcbbd73653a8f07e9382801fac2d9615"
-metafile = true
-
-[[files]]
-file = "mods/simple-login.pw.toml"
-hash = "d6b9297babae8147a453f51084a6d2c620d0220482ebc701bb2b78e40de9af4c"
 metafile = true
 
 [[files]]

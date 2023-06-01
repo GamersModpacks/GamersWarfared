@@ -16,6 +16,9 @@ file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 
 [[files]]
+file = "config/fancymenu/resources/background.png"
+
+[[files]]
 file = "config/fancymenu/resources/logo.png"
 
 [[files]]
@@ -171,10 +174,6 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/shutup-experimental-settings.pw.toml"
 metafile = true
 
 [[files]]
