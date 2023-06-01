@@ -5,6 +5,10 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "913d02442fd5fcf9488374466fcd9787ae163e196a7a6ada9140143361ce19f6"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "4910401b73180f50f62cd8feff2d80631ece5fc20b69e8a11844e4b9e42a8e18"
+
+[[files]]
 file = "config/connectivity-common.toml"
 hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
 
@@ -58,11 +62,11 @@ hash = "7951e2ffc12851e83967b6d8e41c81869764ff47638f9e8843c93abe21e5fb85"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "0a1540df23c9d79ce703b691b077df0d6e49dec5d627148686d9a3c03147cb5e"
+hash = "57b0262d554bf6efd9edfc2c4c718a257051c96f28b265b5a8aee3d04b7ae9e8"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "d5d6716f7fdbd58e12bf64cc777b95678e8527c4e87e0aeffdae373520b23a7b"
+hash = "e6eefb5239cf8c96d6535294192eaa880f71a4643016aa410a1fd530f56060ef"
 
 [[files]]
 file = "config/fancymenu/resources/background.png"

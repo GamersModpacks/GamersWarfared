@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+
+[[files]]
 file = "config/create-client.toml"
 
 [[files]]
