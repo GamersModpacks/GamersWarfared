@@ -1,6 +1,6 @@
 name = "Dynamic Electricity"
 filename = "Dynamic Electricity-1.19.2-1.0.0-4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
