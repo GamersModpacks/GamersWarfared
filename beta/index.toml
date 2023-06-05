@@ -6,7 +6,7 @@ hash = "913d02442fd5fcf9488374466fcd9787ae163e196a7a6ada9140143361ce19f6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "c753d1d37c85e44b74ad11e10410458551316e0d9c0fc348a409b8b29aeec045"
+hash = "b3f05c3fb6a7a7d8c4da61ca62dab653a28727b5fa2aad602e9fa086e2803e42"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -18,11 +18,19 @@ hash = "17de85f098b435cd375914b597d74cd02caa10c12e7c49be34bfd28c506d470f"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
+hash = "028d2f286dc0d763b5506aa86c52a6b8ff526529e42391194f10928cb2ccb073"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "fa4ea66ef46e0ee2902106eb50f8e0e39e7a80615c805d5811197426a17ad893"
+
+[[files]]
+file = "config/dsurround/mobeffects-client.toml"
+hash = "9cf6ef32235604aba655ddcc17b868c131f0067d4504fb19680dfdaf6ff2f81e"
+
+[[files]]
+file = "config/dsurround/sndctrl-client.toml"
+hash = "65663fe39fd6f79244414138f0a2af585a02885c0a6c2d30a0c2fcba37e91e4a"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -46,7 +54,7 @@ hash = "f07cf83f5cf8214ade9635f59c1bd8b0dd6394668d47f84051d766bf19e2a2b0"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "15108cd90dfb481bb4f6b44597e36aa342159f820c3e14fafbce0aaf08f090fa"
+hash = "ea3204363df44c1dcf5026f162de84bc5ddfd8b8dd7ae4a79e48ed80d1b799bc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -210,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "badb9b0f9fd37f368445e139e78f76dfd7a39b32f8b1edf691a4e78e6ed3877f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
@@ -458,6 +471,11 @@ hash = "ebb2d085db7aeb3c499a399ee08a96615ffc52d5aa1ab8d3f2b5c5cba57b96da"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ebe4f9026b88b5e526c15cfb5a00f78b3c7538970df343803fbcdf36ede37534"
+metafile = true
+
+[[files]]
 file = "mods/no-unused-chunks.pw.toml"
 hash = "22013f3a371312b666dbfa12b6fedcc80eb1dcb86d49b444847c908804cdb7e9"
 metafile = true
@@ -519,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b3ac5f2b0f0d42181e24ff1132ca6a9787fca8601ffa88012d9e2c750527cec1"
+hash = "e35494fc0cebf8b886c1f9df99d30e51ce64449d66fcda4b9311dfde4cfe9572"
 metafile = true
 
 [[files]]
@@ -538,13 +556,18 @@ hash = "9e6384fda075dcd6c01df35fbe95df1f0fec821ad9f24e5fb74d8b43100d959a"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b348d437e71825e2089142510bd34dc2551a33f0bab55254d0df1a924a9fe4c2"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
+hash = "318ac48f5a673d2b91bb1824f45179639c66e8d42ea225fe97fb16016a2e8587"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "db9bb383bfa9ced1286549b5b0c2c4a2979d5e4ab39c6e86d7e01bf690f9b7a8"
+hash = "5da37b16f31ad708149c9530ab1cfbc34ed6ae9d06ed38e13c6a62dc828d28a0"
 metafile = true
 
 [[files]]
@@ -559,12 +582,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "08a09de31f0b4604c184b22ad6697851db8147af2b7910a215dbf5c9bb1405e8"
+hash = "0c7fe26a67dd87d721de2c900ca7f3c8813efd09a78a2a61a124d1ddfb05cb68"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+hash = "df03692ea55f854de0cfcb021bd960643a6a8f09c03c30456eac10232384a41a"
 metafile = true
 
 [[files]]

@@ -7,6 +7,12 @@ file = "config/bcc-common.toml"
 file = "config/create-client.toml"
 
 [[files]]
+file = "config/dsurround/mobeffects-client.toml"
+
+[[files]]
+file = "config/dsurround/sndctrl-client.toml"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 
 [[files]]
@@ -65,6 +71,10 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
@@ -168,6 +178,10 @@ file = "mods/ninezeros-gun-expansion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/nuclear-science.pw.toml"
 metafile = true
 
@@ -193,6 +207,10 @@ metafile = true
 
 [[files]]
 file = "mods/simple-planes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]
