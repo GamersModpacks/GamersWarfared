@@ -5,8 +5,20 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "913d02442fd5fcf9488374466fcd9787ae163e196a7a6ada9140143361ce19f6"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
 file = "config/bcc-common.toml"
-hash = "b3f05c3fb6a7a7d8c4da61ca62dab653a28727b5fa2aad602e9fa086e2803e42"
+hash = "039318a1a294a8d7fd2dd442915ad7d2fc431537a7ce4460de7b63b6fd3026a6"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -50,11 +62,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "f07cf83f5cf8214ade9635f59c1bd8b0dd6394668d47f84051d766bf19e2a2b0"
+hash = "88c1c290196e625a2734931cf4bb44735b1b254172bb4b8e69b798fe368cf57f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "ea3204363df44c1dcf5026f162de84bc5ddfd8b8dd7ae4a79e48ed80d1b799bc"
+hash = "f373be3697bdf24df695f12e21bb7ea17ef8cb288396557de8c282816488118b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -119,6 +131,11 @@ hash = "3d5d5f5db7ae21f0d25cde9517779b5877c41ea5bd5c69ead93037f63f8c26bd"
 [[files]]
 file = "config/openloader/resources/GamersWarfared Resources/pack.mcmeta"
 hash = "ecd4d0debb44db1f891a51f8ab79cbf476620a868c41944068412788edf20a42"
+
+[[files]]
+file = "config/openloader/resources/chat-reporting-helper.pw.toml"
+hash = "c284d3be407e25df2ed7da53b3d1548fe43516d9b3c408434826f750207fceb1"
+metafile = true
 
 [[files]]
 file = "config/openloader/resources/customrussianforminecraft.pw.toml"
@@ -467,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/ninezeros-gun-expansion.pw.toml"
-hash = "ebb2d085db7aeb3c499a399ee08a96615ffc52d5aa1ab8d3f2b5c5cba57b96da"
+hash = "06b93497538940790199dc9401633eec0098deff750a07109c05f994b1ada0fe"
 metafile = true
 
 [[files]]
@@ -511,6 +528,11 @@ hash = "e2eb35bbb6073950ccb1e0fcf841b446e6697fec47bd4a794f928f95c07b9170"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "44763cc5da2665b6e981cad902af6e0182fa50b897470b4e17b525cdeec1df6b"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "934115dd157d2e040da75153198ff497099b2fb5d8141fa543a39ad461e217cd"
 metafile = true
@@ -527,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
+hash = "6ce713c123ab359c6679b0572fc3a33d76ceef8acf34522cea9b4858026b64b8"
 metafile = true
 
 [[files]]
@@ -537,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e35494fc0cebf8b886c1f9df99d30e51ce64449d66fcda4b9311dfde4cfe9572"
+hash = "48d40b4ff0fc80915472f0ae0d53b4a370e973c2b09e449d0d3d4140b3f6f47e"
 metafile = true
 
 [[files]]
@@ -567,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5da37b16f31ad708149c9530ab1cfbc34ed6ae9d06ed38e13c6a62dc828d28a0"
+hash = "0f2614f177b9a36a332bc30f0d7500d3866dc0ed5f4b6963beadfab88554175c"
 metafile = true
 
 [[files]]
@@ -663,4 +685,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "20222a2e823e88c1732d6b346478738fd0518f15c211de8c0ff82fbec8dbfd4d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "287119e22dcc1d4e7c35cb075cb4fba7f6fe3928b814882cf04b8cf8adc06d9b"
 metafile = true

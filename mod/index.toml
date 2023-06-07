@@ -7,6 +7,9 @@ file = "config/bcc-common.toml"
 file = "config/create-client.toml"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
 file = "config/dsurround/mobeffects-client.toml"
 
 [[files]]
@@ -178,10 +181,6 @@ file = "mods/ninezeros-gun-expansion.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/nuclear-science.pw.toml"
 metafile = true
 
@@ -191,6 +190,10 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
 metafile = true
 
 [[files]]
