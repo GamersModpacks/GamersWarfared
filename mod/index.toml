@@ -61,6 +61,10 @@ file = "mods/applied-mekanistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 metafile = true
 
@@ -145,6 +149,10 @@ file = "mods/goprone.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/iam-music-player.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
@@ -182,6 +190,10 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
 metafile = true
 
 [[files]]
