@@ -18,7 +18,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "039318a1a294a8d7fd2dd442915ad7d2fc431537a7ce4460de7b63b6fd3026a6"
+hash = "0540374ac275a7fb3f2ec9a2773df60fae925f383859826b58cec79dc4362e5d"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -62,11 +62,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "88c1c290196e625a2734931cf4bb44735b1b254172bb4b8e69b798fe368cf57f"
+hash = "1d23d0969d99b6d53c785989abf65c448c1dfd8295db8f6ce78f20bbd795ecc3"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "f373be3697bdf24df695f12e21bb7ea17ef8cb288396557de8c282816488118b"
+hash = "72c84171dc14b775703254cccfc896b58f9b7ce6c2eedbe029938c56ace18617"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -134,7 +134,7 @@ hash = "ecd4d0debb44db1f891a51f8ab79cbf476620a868c41944068412788edf20a42"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
-hash = "c284d3be407e25df2ed7da53b3d1548fe43516d9b3c408434826f750207fceb1"
+hash = "62af13d9f72ce550635e6a288cb94c82b9d5107eefea577d7135508bc593cadf"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "c0ff2dbf95204dca8201f0474856c700e6103366f3bfea5b2408b6002dc4b825"
+hash = "0598ce871e161d82ed54e47d4d9f88fb733f3f8f5434f2d5e4d77f4c1a60ab51"
 metafile = true
 
 [[files]]
@@ -185,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "f61a1570bc5af4372483bb4eb5172c82d0590b80c603d5dab19117eae84a4d17"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
@@ -304,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.pw.toml"
-hash = "57fc090b13cdceac94d48849e9cc333e7d29de05f65083b60412b8af01f4d321"
+hash = "89c380365f8afa252d45dacd1a35354add383a88d4546f2e1cc65a32c103b85c"
 metafile = true
 
 [[files]]
@@ -393,8 +398,13 @@ hash = "253853c31dac237fc82cbc31f68a1df6f7d6656fc3cc478228550d627fb150b1"
 metafile = true
 
 [[files]]
+file = "mods/iam-music-player.pw.toml"
+hash = "be033a44662f5a58dbe01dc651bcad9ced166740f47cbe689becf142a0514f06"
+metafile = true
+
+[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "9023913494f24f6ce89297fa9f342612c1c5b1bc8aedc9c54baa6e271feb7cdc"
+hash = "f8e93d8a4ee0f2ebcff9138d72e6038bb2b176ceb784b123bcca466a0a4ca4fd"
 metafile = true
 
 [[files]]
@@ -484,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/ninezeros-gun-expansion.pw.toml"
-hash = "06b93497538940790199dc9401633eec0098deff750a07109c05f994b1ada0fe"
+hash = "28f998aec8a04d6e417823b960a507f26067cd451deab86d841529ceb874b4b6"
 metafile = true
 
 [[files]]
@@ -504,12 +514,17 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
+hash = "741032fa990abb4939ff5a270f46f60f10def5451f40805ac0bc12840aff9fdf"
 metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a1e3ad26ef9afc2515b5f530cfd00e8a43675375d4ce9252cc6dcc90ad8d3957"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "ee9b41bb38a6dcacf14cf6d8a7c25114f0c87658393c2611c145e2396e3772d7"
 metafile = true
 
 [[files]]
@@ -534,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "934115dd157d2e040da75153198ff497099b2fb5d8141fa543a39ad461e217cd"
+hash = "c98ef6957a40ec3b2d2d555b38fc58da7c46ebab01cb68dc22db6e764137bf15"
 metafile = true
 
 [[files]]
@@ -579,12 +594,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b348d437e71825e2089142510bd34dc2551a33f0bab55254d0df1a924a9fe4c2"
+hash = "896c09f63ea809769f21aa5583174116ad9defe321750aa5419c5a589e1a02e8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "318ac48f5a673d2b91bb1824f45179639c66e8d42ea225fe97fb16016a2e8587"
+hash = "f4c06b76d30313faed5afba11f2e1b863208f119b6a373e3a29021d110a3cf27"
 metafile = true
 
 [[files]]
@@ -685,9 +700,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "20222a2e823e88c1732d6b346478738fd0518f15c211de8c0ff82fbec8dbfd4d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "287119e22dcc1d4e7c35cb075cb4fba7f6fe3928b814882cf04b8cf8adc06d9b"
 metafile = true
