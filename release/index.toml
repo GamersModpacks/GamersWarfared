@@ -18,7 +18,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "0540374ac275a7fb3f2ec9a2773df60fae925f383859826b58cec79dc4362e5d"
+hash = "d8725f165584240b42e2d4f0e16df3759fd6618f9774d12c7c7d11f7de9e9be5"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -62,11 +62,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "1d23d0969d99b6d53c785989abf65c448c1dfd8295db8f6ce78f20bbd795ecc3"
+hash = "784028c97097c078d470c29d76a3a7cbb22cd00ec04fb680854026eb5d25bae2"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "72c84171dc14b775703254cccfc896b58f9b7ce6c2eedbe029938c56ace18617"
+hash = "dde1101d0936ba2ef9815e26e359528498a420982e01f8a4b1dca60da76f847c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -95,6 +95,10 @@ hash = "4fb555e95755a5b50759116cbd18deac9d44129edf27544e150b3eb62cbd0513"
 [[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "9ae26a8d8fec960e63b6694637d1e01a13c419ab2522ed61726ba33a729889ca"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
 
 [[files]]
 file = "config/fml.toml"
@@ -299,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "61ce95654a33c10e7c54c121f720c3bb58af8d99b2ba9521ae08556f629b6cc1"
+hash = "600cdca16b9607f415ef545df62c6f056ae6d5e12b83c37f7e2fbfd8211c4fe8"
 metafile = true
 
 [[files]]
@@ -319,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "7b5913e706e9c9aa798b06cc41ee0922d302d4588c9010cb1e80c4e2cfb4dc2a"
+hash = "dadf103db203f83d86361ea51250fd949ec94bc1ba3eb7a95fb49481ff3a9160"
 metafile = true
 
 [[files]]
@@ -344,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
+hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
@@ -478,6 +482,11 @@ hash = "f6cc47777418eada79b50d6cdd57bd6dc35017f8e46defd5e888a2d6215be0e1"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
+metafile = true
+
+[[files]]
 file = "mods/mffs.pw.toml"
 hash = "734e31bbad8db6e9d956bf6ba4bfd21995b03deee1828c2b692f2af0e871a34e"
 metafile = true
@@ -494,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/ninezeros-gun-expansion.pw.toml"
-hash = "28f998aec8a04d6e417823b960a507f26067cd451deab86d841529ceb874b4b6"
+hash = "5f821a3fc0fe262c5936c8dbb22ea7c75dbfe70c853afefbcc450f6f3851412f"
 metafile = true
 
 [[files]]
@@ -549,7 +558,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "c98ef6957a40ec3b2d2d555b38fc58da7c46ebab01cb68dc22db6e764137bf15"
+hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
 metafile = true
 
 [[files]]
@@ -588,13 +602,18 @@ hash = "4b3ff474197a108f8f8fffbfe0e08603fcbbd73653a8f07e9382801fac2d9615"
 metafile = true
 
 [[files]]
+file = "mods/simple-farming.pw.toml"
+hash = "3f02d287b9e2fe4ee9ac9ffccdf8c21ae6e713bb2f8f0d562eb9df96452b310c"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "9e6384fda075dcd6c01df35fbe95df1f0fec821ad9f24e5fb74d8b43100d959a"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "896c09f63ea809769f21aa5583174116ad9defe321750aa5419c5a589e1a02e8"
+hash = "5ef1064d26f1b0af2734e5cfa60ceac020798390440ad3c3bc6d1202bb3bc566"
 metafile = true
 
 [[files]]
@@ -604,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0f2614f177b9a36a332bc30f0d7500d3866dc0ed5f4b6963beadfab88554175c"
+hash = "d0a7ce24e946a5a9783db5bd2c7f518a173c4808e7733529255a7d95d24f57fc"
 metafile = true
 
 [[files]]
@@ -619,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0c7fe26a67dd87d721de2c900ca7f3c8813efd09a78a2a61a124d1ddfb05cb68"
+hash = "b0ce10ca8f3e7b9d3bf7d738f084ce8da7d062517fde73fd6527b56e28164774"
 metafile = true
 
 [[files]]
@@ -684,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "71c4672c589661e49a57c75f62435cdc89dc92ccf20b9db85552a5a8271ff116"
+hash = "5f1ec959361dabb24342cacb065665c616c64b8d60be9a2d93338a26e841fb8c"
 metafile = true
 
 [[files]]
