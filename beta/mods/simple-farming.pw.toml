@@ -1,0 +1,13 @@
+name = "Simple Farming"
+filename = "simplefarming-1.19.2-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "755517a917453364fa7ab9baa900fd13df0b9fd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4406938
+project-id = 327554

@@ -221,6 +221,10 @@ file = "mods/selene.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-farming.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 metafile = true
 
