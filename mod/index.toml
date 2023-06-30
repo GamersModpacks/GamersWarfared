@@ -113,6 +113,10 @@ file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cyclic.pw.toml"
 metafile = true
 
@@ -150,6 +154,10 @@ metafile = true
 
 [[files]]
 file = "mods/iam-music-player.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
 metafile = true
 
 [[files]]

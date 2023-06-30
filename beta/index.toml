@@ -18,7 +18,11 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d8725f165584240b42e2d4f0e16df3759fd6618f9774d12c7c7d11f7de9e9be5"
+hash = "908b14df824efbaa18bb300c844e072d4b1aa4a8e8c996093e5915cbc86d4ab8"
+
+[[files]]
+file = "config/borderlesswindow-client.toml"
+hash = "b8ca537da51f8f614c6d0f03d91365d6b2f537cafa75520137d5357d1c9698c6"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -62,11 +66,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "784028c97097c078d470c29d76a3a7cbb22cd00ec04fb680854026eb5d25bae2"
+hash = "43a7022df089e41ecb8d53bf8257e402e5804ef4eedcf02cc0bebe0b5cc91790"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "dde1101d0936ba2ef9815e26e359528498a420982e01f8a4b1dca60da76f847c"
+hash = "c24bd636fead05a32ef9d1dabfb856e19c6c0baa55c88d1121a9bff183a991f9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -94,7 +98,7 @@ hash = "4fb555e95755a5b50759116cbd18deac9d44129edf27544e150b3eb62cbd0513"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
-hash = "9ae26a8d8fec960e63b6694637d1e01a13c419ab2522ed61726ba33a729889ca"
+hash = "e7cd47857d3e491fa6e0de02dfb04dda5e26d396cb774e7ad7f0c0c4eda03f91"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -164,11 +168,11 @@ file = "config/tips.json"
 hash = "21b1e5be83c73f6b87dd918486469a8da1ce9945f92dc1faa4cce70f1f53bbc8"
 
 [[files]]
-file = "defaultconfigs/xaerominimap.txt"
+file = "config/xaerominimap.txt"
 hash = "281c8f02f069b11d90bcf2df77544b6e236f29dd83f96a1c87a0eb7e53bd844c"
 
 [[files]]
-file = "defaultconfigs/xaeroworldmap.txt"
+file = "config/xaeroworldmap.txt"
 hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
@@ -178,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "0598ce871e161d82ed54e47d4d9f88fb733f3f8f5434f2d5e4d77f4c1a60ab51"
+hash = "43a09bf3fc588c393ed5e1b549991aad430f826d374266249d778129169dfe43"
 metafile = true
 
 [[files]]
@@ -229,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
+metafile = true
+
+[[files]]
+file = "mods/borderless.pw.toml"
+hash = "6207006280fbdff86b69edf459d4c4fc4ae03363bdc433aa091b4c4eed544f8b"
 metafile = true
 
 [[files]]
@@ -298,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "dc215d12d87c9cc23a80637334dbed408a729ac9fb5310fb521d4750023931e6"
+hash = "b09ca1d2151f681b3febe34c5412d213c1c7ff46a2bd5a6f9b6f55dab904baea"
 metafile = true
 
 [[files]]
@@ -488,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "734e31bbad8db6e9d956bf6ba4bfd21995b03deee1828c2b692f2af0e871a34e"
+hash = "e9530d2ebaf34d1c39a5f6ddbb5f9400c1dd42a62d3356023fe37fad4fea60b4"
 metafile = true
 
 [[files]]
@@ -548,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "e2eb35bbb6073950ccb1e0fcf841b446e6697fec47bd4a794f928f95c07b9170"
+hash = "a9fa88c30a625b07cd38435bf14c0233dddf59e24dd049a9a696a587eab162e9"
 metafile = true
 
 [[files]]
@@ -572,6 +581,11 @@ hash = "54ee8e257ffabe5f42fb6bd5ed60fe3fca76d04d4fa2031e865fc86bca0d1675"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "83eda896132f7ff69ab57e156fe00f913bea3a4fcb739791878516468a116bc0"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "450bf93c940cf89f17cdffee7eb4bd9ff40d9c0b18a1be2b9275089c833363ee"
 metafile = true
@@ -588,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "48d40b4ff0fc80915472f0ae0d53b4a370e973c2b09e449d0d3d4140b3f6f47e"
+hash = "54e8cddcc8fdadda043465955fd392d1d9ba042a1e0e23f1041530137298b6e9"
 metafile = true
 
 [[files]]
@@ -613,17 +627,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5ef1064d26f1b0af2734e5cfa60ceac020798390440ad3c3bc6d1202bb3bc566"
+hash = "99d119074fbdcd6af217a350f69805b7205cbecd1222688f1838d6e01983aff9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f4c06b76d30313faed5afba11f2e1b863208f119b6a373e3a29021d110a3cf27"
+hash = "9350b6d7d8ab73ce56ad757c577ada54348c9ce1933c1f282da9e76a78b9ec16"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d0a7ce24e946a5a9783db5bd2c7f518a173c4808e7733529255a7d95d24f57fc"
+hash = "55a4c89651ca5abb88ea33623c255fb0370a4c71f893a5f1d7469d0d372708b6"
 metafile = true
 
 [[files]]
@@ -638,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b0ce10ca8f3e7b9d3bf7d738f084ce8da7d062517fde73fd6527b56e28164774"
+hash = "f78066e4854ca09c84d962e028c8b3e1f2f095766db28680dc5ada6472e9a447"
 metafile = true
 
 [[files]]
