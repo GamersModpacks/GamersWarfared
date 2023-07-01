@@ -21,10 +21,6 @@ file = "config/bcc-common.toml"
 hash = "908b14df824efbaa18bb300c844e072d4b1aa4a8e8c996093e5915cbc86d4ab8"
 
 [[files]]
-file = "config/borderlesswindow-client.toml"
-hash = "b8ca537da51f8f614c6d0f03d91365d6b2f537cafa75520137d5357d1c9698c6"
-
-[[files]]
 file = "config/connectivity-common.toml"
 hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
 
@@ -66,11 +62,11 @@ hash = "234e6f35aec11d9c4a406d150fb564ab51280bdf284a67551d48e06148f7dfde"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "7fb06fe38c77df27d489d78077b5cc37b63d22ec3d8196c422a062e43016421a"
+hash = "3173fee85a91a4f17c60744a70dc774d667a729b388589b04634959e46d49374"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "c24bd636fead05a32ef9d1dabfb856e19c6c0baa55c88d1121a9bff183a991f9"
+hash = "dc64d3c336ad8aeaa65dd0da2f9dc81c650719076528dc847f49e1469648c8ca"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -86,15 +82,15 @@ hash = "7951e2ffc12851e83967b6d8e41c81869764ff47638f9e8843c93abe21e5fb85"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "57b0262d554bf6efd9edfc2c4c718a257051c96f28b265b5a8aee3d04b7ae9e8"
+hash = "6e7d31b4986488516191d076c9e540c5e1caa26fd540d7bb95c6689662d7b1cf"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "e6eefb5239cf8c96d6535294192eaa880f71a4643016aa410a1fd530f56060ef"
+hash = "57418c482c720d15e2bd3128709bd221919c552a5d6ec6b082dd39f28d42cfb9"
 
 [[files]]
 file = "config/fancymenu/resources/background.png"
-hash = "4fb555e95755a5b50759116cbd18deac9d44129edf27544e150b3eb62cbd0513"
+hash = "3a9baa284a41dd4e42b1f947b9dff5b4c9fa8df2412056a37a91490bc9407fc0"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
@@ -233,11 +229,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
-metafile = true
-
-[[files]]
-file = "mods/borderless.pw.toml"
-hash = "6207006280fbdff86b69edf459d4c4fc4ae03363bdc433aa091b4c4eed544f8b"
 metafile = true
 
 [[files]]
