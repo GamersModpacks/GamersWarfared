@@ -1,2 +1,2 @@
-Hightly optimized kitchen-sink Minecraft modpack oriented for multiplayer. Continuation of GamersReforged.
-### [More Info](https://den4enko.github.io/GamersReloaded/)
+Hightly optimized hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
+### [More Info](https://den4enko.github.io/GamersWarfared/)
