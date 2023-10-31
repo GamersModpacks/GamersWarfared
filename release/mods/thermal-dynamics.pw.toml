@@ -1,13 +1,13 @@
 name = "Thermal Dynamics"
-filename = "thermal_dynamics-1.19.2-10.2.1b.14.jar"
+filename = "thermal_dynamics-1.19.2-10.3.0.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9281ebd786e28749205018f25e3ef90bbff56393"
+hash = "a647f3503d9f83ac040f0c8434b210e22c046227"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4391160
+file-id = 4760633
 project-id = 227443
