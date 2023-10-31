@@ -1,13 +1,13 @@
 name = "Thermal Integration"
-filename = "thermal_integration-1.19.2-10.2.0.17.jar"
+filename = "thermal_integration-1.19.2-10.3.0.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9323fdd3db2fe34234a699631fa1f7a1454fd645"
+hash = "9eedcdb0eb58af4c086814c349dfb22061021272"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4382887
+file-id = 4759915
 project-id = 626708

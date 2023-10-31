@@ -28,7 +28,7 @@ file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 
 [[files]]
-file = "config/fancymenu/resources/background.png"
+file = "config/fancymenu/resources/background.jpg"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
@@ -141,10 +141,6 @@ file = "mods/first-aid.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 metafile = true
 
@@ -154,6 +150,10 @@ metafile = true
 
 [[files]]
 file = "mods/iam-music-player.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
 metafile = true
 
 [[files]]

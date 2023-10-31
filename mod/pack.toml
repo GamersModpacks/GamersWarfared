@@ -1,6 +1,6 @@
 name = "GamersWarfared"
 author = "Gamers"
-version = "1.6.1"
+version = "1.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -8,7 +8,7 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-forge = "43.2.14"
+forge = "43.3.2"
 minecraft = "1.19.2"
 
 [options]
